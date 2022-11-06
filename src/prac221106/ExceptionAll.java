@@ -24,6 +24,10 @@ public class ExceptionAll {
         }
     }
 
+
+
+
+
     static void startInstall() throws SpaceException, MemoryException {
         if (!enoughSpace())
             throw new SpaceException("설치 공간 부족");
@@ -31,8 +35,16 @@ public class ExceptionAll {
             throw new MemoryException("메모리 부족");
     }
 
+
+
+
+
     static void copyFiles() {/*파일 복사 코드*/}
     static void deleteTempFiles(){/*임시파일 삭제 코드*/}
+
+
+
+
 
     static boolean enoughSpace(){//설치 공간 있는지 확인하는 코드
         return false;
@@ -43,11 +55,16 @@ public class ExceptionAll {
     }
 }
 
+
+
+
+
 class SpaceException extends Exception{
     SpaceException(String msg)  {
         super(msg);
     }
 }
+
 
 class MemoryException extends Exception{
     MemoryException(String msg){
