@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac221106/equalsObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac221106/equalsObj2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac221106/ExceptionAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac221106/ExceptionAll.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667726116893</updated>
       <workItem from="1667726117381" duration="1577000" />
-      <workItem from="1667727718392" duration="3744000" />
+      <workItem from="1667727718392" duration="4899000" />
     </task>
     <task id="LOCAL-00001" summary="221106">
       <created>1667728090785</created>
@@ -80,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667730107324</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="221106">
+      <created>1667731503865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667731503865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
