@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac221107/dot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prac221107/dot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac221107/dot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,7 @@
       <workItem from="1667726117381" duration="1577000" />
       <workItem from="1667727718392" duration="6688000" />
       <workItem from="1667815909768" duration="4199000" />
-      <workItem from="1667820164724" duration="3484000" />
+      <workItem from="1667820164724" duration="3850000" />
     </task>
     <task id="LOCAL-00001" summary="221106">
       <created>1667728090785</created>
@@ -95,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667733048127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="221107">
+      <created>1667829723230</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829723230</updated>
+    </task>
+    <task id="LOCAL-00007" summary="221107">
+      <created>1667829977140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667829977140</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +116,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="221106" />
-    <option name="LAST_COMMIT_MESSAGE" value="221106" />
+    <MESSAGE value="221107" />
+    <option name="LAST_COMMIT_MESSAGE" value="221107" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
