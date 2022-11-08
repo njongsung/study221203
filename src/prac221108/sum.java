@@ -14,16 +14,7 @@ public class sum {
         return answer;
     }
 
-    public int solution(int k) {
-        int answer = 0;
 
-        while (k != 0) {
-            answer += k % 10;
-            k /= 10;
-        }
-
-        return answer;
-    }
 
     public static void main(String[] args) {
         int answer=0;
