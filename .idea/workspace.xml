@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="221107">
-      <change afterPath="$PROJECT_DIR$/src/prac221107/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac221108/ArInt.java" afterDir="false" />
+    <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/prac221108/divisor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
       <workItem from="1667820164724" duration="6187000" />
       <workItem from="1667901761303" duration="1181000" />
       <workItem from="1667903913380" duration="1355000" />
-      <workItem from="1667918187547" duration="662000" />
+      <workItem from="1667918187547" duration="1289000" />
     </task>
     <task id="LOCAL-00001" summary="221106">
       <created>1667728090785</created>
@@ -127,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667832417065</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="221107">
+      <created>1667918863748</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667918863748</updated>
+    </task>
+    <task id="LOCAL-00011" summary="221107">
+      <created>1667919077227</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667919077227</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
