@@ -1,5 +1,4 @@
-package sw.search;
-
+package prac221109;
 //스택 메모리
 //스택은 임시로 데이터를 저장하는 기능을 가지며
 //FILO(First Input Last Output) 먼저 들어간 것이 나중에 나옴 = 나중에 들어간 것이 먼저 나옴

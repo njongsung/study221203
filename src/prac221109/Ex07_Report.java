@@ -1,4 +1,4 @@
-package sw.test;
+package prac221109;
 
 import java.util.Scanner;
 
