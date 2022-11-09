@@ -10,10 +10,9 @@ public class lotto {
         Random num = new Random();
         int tmp;
 
-
-
         System.out.print("게임 수를 입력하세요: ");
         int q = sc.nextInt();
+
         do {
 
                 for (int i = 0; i < lotto.length; i++) {
