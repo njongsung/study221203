@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac221113/BinarySearchTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac221113/SeqSearchSenFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac221113/IdTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac221114/Collatz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +45,24 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring.boot&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IdTester">
+    <configuration name="IdTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac221113.IdTester" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac221113.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="sum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac221108.sum" />
       <module name="Practice" />
@@ -63,6 +76,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IdTester" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -85,14 +103,8 @@
       <workItem from="1668150478115" duration="2064000" />
       <workItem from="1668212981350" duration="1205000" />
       <workItem from="1668232716677" duration="17083000" />
-      <workItem from="1668311517775" duration="25560000" />
-    </task>
-    <task id="LOCAL-00003" summary="221106">
-      <created>1667730107324</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1667730107324</updated>
+      <workItem from="1668311517775" duration="27670000" />
+      <workItem from="1668360294605" duration="1746000" />
     </task>
     <task id="LOCAL-00004" summary="221106">
       <created>1667731503865</created>
@@ -430,7 +442,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668340160733</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="221113">
+      <created>1668341623061</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1668341623061</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
