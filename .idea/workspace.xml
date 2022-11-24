@@ -53,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.removeduplicate">
     <configuration name="removeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac221119.removeduplicate" />
       <module name="Practice" />
@@ -127,14 +127,7 @@
       <workItem from="1669203355950" duration="375000" />
       <workItem from="1669244764881" duration="193000" />
       <workItem from="1669244990461" duration="4849000" />
-      <workItem from="1669327988722" duration="4986000" />
-    </task>
-    <task id="LOCAL-00025" summary="221112">
-      <created>1668241322733</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1668241322733</updated>
+      <workItem from="1669327988722" duration="5321000" />
     </task>
     <task id="LOCAL-00026" summary="221112">
       <created>1668242399468</created>
@@ -472,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669331698918</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="221125">
+      <created>1669333028917</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1669333028917</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

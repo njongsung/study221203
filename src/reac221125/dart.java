@@ -7,8 +7,6 @@ public class dart {
         int count = 0;
         int starcount = 0;
         int hashcount = 0;
-        int allcount = 0;
-        int pin = 0;
         int[] score = new int[3];
 
         char[] process = dartResult.toCharArray();
@@ -65,10 +63,9 @@ public class dart {
             if (hashcount == 0) {
                 switch (process[i]) {
                     case '*':
-                        if (starcount == 0 && allcount == 0) {
+                        if (starcount == 0) {
                             score[count] *= 2;
                             starcount++;
-                            allcount++;
                             break;
                         } else if (starcount > 0) {
                             score[count] *= 4;
@@ -78,8 +75,6 @@ public class dart {
                     case '#':
                         score[count] *= -1;
                         hashcount++;
-                        allcount++;
-                        pin = i - 2;
                         break;
                 }
             } else {
@@ -92,7 +87,6 @@ public class dart {
                     case '#':
                         score[count] *= -1;
                         hashcount++;
-                        allcount++;
                         break;
 
                 }
@@ -112,7 +106,7 @@ public class dart {
     }
 
     public static void main(String[] args) {
-        String S = "1S2D*3T";
+        String S = "1D#2S*3S";
         Solution(S);
         System.out.println(Solution(S));
     }
