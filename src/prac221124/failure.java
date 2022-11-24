@@ -16,8 +16,8 @@ public class failure {
             for( int j=0; j<people; j++){
                 if (stages[j]==i+1)
                     NCcount++;
-                failure[i]=NCcount/(people-allcount);
-            }
+                }
+            failure[i]=NCcount/(people-allcount);
             allcount+=NCcount;
             NCcount=0;
         }
