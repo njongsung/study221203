@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ebb124-ea8a-4b96-9d12-7ef28a7627d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/prac221123/YearWeekDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac221124/failure.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.removeduplicate">
+  <component name="RunManager">
     <configuration name="removeduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac221119.removeduplicate" />
       <module name="Practice" />
@@ -123,14 +123,10 @@
       <workItem from="1668863924014" duration="6040000" />
       <workItem from="1668928212831" duration="6320000" />
       <workItem from="1669059793856" duration="2237000" />
-      <workItem from="1669155909628" duration="1435000" />
-    </task>
-    <task id="LOCAL-00022" summary="221111">
-      <created>1668116247941</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1668116247941</updated>
+      <workItem from="1669155909628" duration="1798000" />
+      <workItem from="1669203355950" duration="375000" />
+      <workItem from="1669244764881" duration="193000" />
+      <workItem from="1669244990461" duration="3225000" />
     </task>
     <task id="LOCAL-00023" summary="221111">
       <created>1668236745815</created>
@@ -468,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669061871060</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="221123">
+      <created>1669157364271</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1669157364271</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +492,8 @@
     <MESSAGE value="221119" />
     <MESSAGE value="221120" />
     <MESSAGE value="221122" />
-    <option name="LAST_COMMIT_MESSAGE" value="221122" />
+    <MESSAGE value="221123" />
+    <option name="LAST_COMMIT_MESSAGE" value="221123" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -508,6 +512,11 @@
           <url>file://$PROJECT_DIR$/src/prac221122/stringNumWord.java</url>
           <line>5</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/prac221124/failure.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
