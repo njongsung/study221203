@@ -1,4 +1,4 @@
-package reac221125;
+package prac221125;
 
 public class dart {
     private static int Solution(String dartResult) {
